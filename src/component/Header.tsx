@@ -219,7 +219,6 @@ export const Header = () => {
                   background: themeConfig.colors.surface,
                   borderColor: themeConfig.colors.border,
                 }}
-                onMouseLeave={() => setIsDropdownOpen(!isDropdownOpen)}
               >
                 <div>
                   {Object.entries(themes).map(([key, theme]) => {
