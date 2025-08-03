@@ -70,7 +70,7 @@ function App() {
   return (
     <MainComponent theme={themeConfig}>
       <Header />
-      <div className="pt-16 h-screen flex w-full overflow-y-hidden pb-8">
+      <div className="pt-16 h-screen flex w-full overflow-y-hidden">
         <SideBar isOpen={isOpenSideBar} handleClose={handleSideBar} />
         <Outlet />
       </div>

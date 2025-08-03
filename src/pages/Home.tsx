@@ -101,7 +101,7 @@ const HomePage = () => {
           </HomeButton>
         </div>
       </div>
-      <div className="w-full flex flex-col px-4 gap-6 mt-8">
+      <div className="w-full flex flex-col px-4 gap-6 my-8">
         <Suspense fallback={<Loading />}>
           <ProductGrid />
         </Suspense>
