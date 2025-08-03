@@ -2,7 +2,7 @@
 
 > A modern React application built with TypeScript, Vite, and styled-components featuring a responsive design with theme support.
 
-<img width="100" height="100" alt="live gif" src="https://github.com/user-attachments/assets/b614509b-338e-4bb1-9d85-081003ff823e" /> 
+<img width="100px" src="https://github.com/user-attachments/assets/78895d21-e065-4e03-b468-57ec803b9487" />
 
 🔗 **Live Demo**: [https://hipster-assign.vercel.app/](https://hipster-assign.vercel.app/)
 
